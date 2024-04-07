@@ -9,3 +9,10 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gahyunkim&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
+
+<div style="text-align: center;">
+    <a href="https://hits.seeyoufarm.com">
+        <img
+            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungj-baek.github.io&count_bg=%23000000&title_bg=%23000000&icon=openstreetmap.svg.icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
+    </a>
+</div>
