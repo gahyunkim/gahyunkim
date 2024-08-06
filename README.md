@@ -15,6 +15,6 @@
     <a href="https://hits.seeyoufarm.com">
         <img
             src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyoungj-baek.github.io&count_bg=%23000000&title_bg=%23000000&icon=openstreetmap.svg.icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-    </a>
+    </a>  
 </div> 
 --!>
