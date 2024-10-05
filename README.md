@@ -9,7 +9,9 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=gahyunkim&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-    
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mapledt001)](https://solved.ac/mapledt001)
+
 <!--
 <div style="text-align: center;">
     <a href="https://hits.seeyoufarm.com">
@@ -18,3 +20,4 @@
     </a>  
 </div>   
 --!>
+
